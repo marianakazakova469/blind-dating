@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1070853049828",
+    "project_id": "uncommon-grounds-64ee1",
+    "storage_bucket": "uncommon-grounds-64ee1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070853049828:android:6ea5d62aef4a255268cbf1",
+        "android_client_info": {
+          "package_name": "com.example.uncommon_grounds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070853049828-gbd82dmm49fbloubtsi7og8bm3ovgf62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uncommon_grounds",
+            "certificate_hash": "6285d109598cff47d9c7c7ae510b7db75e5e793b"
+          }
+        },
+        {
+          "client_id": "1070853049828-666kgra46mkuurqjb1or2thas35m87g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT8otiybfg92JjhQdkzgVlBRgxEQdKFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070853049828-666kgra46mkuurqjb1or2thas35m87g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070853049828-q3d5or98g6v02ktv3tc1lnfo3qfa42pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uncommonGrounds"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
